@@ -4,6 +4,7 @@ PT_BR: Olá, me chamo pablo mais prefiro mais Phr. <br>Estou aprendendo ainda a 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Phr10A) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/825436932670488617)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PhrGamerBR1692&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PhrGamerBR1692&theme=shadow_blue&hide_border=true)<br/>
